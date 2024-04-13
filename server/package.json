@@ -1,0 +1,29 @@
+{
+  "name": "employee_managment_system",
+  "version": "1.0.0",
+  "description": "Manage the attendance and salary of employees",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zain Ali",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.4",
+    "axios": "0.21.0",
+    "bcrypt": "^5.0.0",
+    "cors": "^2.8.5",
+    "date-fns": "^2.16.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "googleapis": "^39.2.0",
+    "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.22",
+    "multer": "^1.4.2",
+    "twilio": "^3.54.1",
+    "uuid": "^8.3.2"
+  }
+}

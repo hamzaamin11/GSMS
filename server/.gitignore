@@ -1,0 +1,6 @@
+/public
+/node_modules
+.env
+config/default.json
+api/practice
+api/middlewares/sacredentials.json
